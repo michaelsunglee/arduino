@@ -1,4 +1,4 @@
 arduino
 =======
 
-Collection of small Arduino Projects
+Collection of small Arduino projects
