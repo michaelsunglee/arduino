@@ -26,7 +26,7 @@ void loop(){
   digitalWrite(5,HIGH);
 
   //player1=digitalRead(buttonPin);
-  //s
+  //ss
   while(done == 0){
     player1=digitalRead(2);
     player2=digitalRead(3);
