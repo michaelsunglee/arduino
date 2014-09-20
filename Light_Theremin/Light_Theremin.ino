@@ -1,3 +1,5 @@
+// Project 3
+// Michael Sung Hyun Lee
 int sensorValue;
 int sensorLow = 1023;
 int sensorHigh = 0;

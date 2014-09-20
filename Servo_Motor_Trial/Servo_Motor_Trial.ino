@@ -1,3 +1,5 @@
+// Project 2
+// Michael Sung Hyun Lee
 #include <Servo.h>
 
 Servo myServo;
